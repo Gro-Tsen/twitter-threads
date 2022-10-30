@@ -46,7 +46,7 @@
 
 * [on the mean motion theorem](https://twitter.com/gro_tsen/status/1204082459467567104)
 
-* [illustration of the mean motion theorem](https://twitter.com/gro_tsen/status/1204537700243640321)
+* [graphical illustration of the mean motion theorem](https://twitter.com/gro_tsen/status/1204537700243640321)
 
 * [an explanation of why the Stone-Čech compactification of ℤ isn't commutative](https://twitter.com/gro_tsen/status/1206267200966926338)
 
@@ -122,6 +122,8 @@
 
 * [various questions on translation-stable bases](https://twitter.com/gro_tsen/status/1390336998351818752)
 
+* [the “ace of spades” probability paradox](https://twitter.com/gro_tsen/status/1408007439342096384)
+
 * [efficient arithmetic of finite field extensions](https://twitter.com/gro_tsen/status/1414668562187366401)
 
 * [median of three independent standard Gaussian variables](https://twitter.com/gro_tsen/status/1430202145580716033)
@@ -137,6 +139,8 @@
 * [an exercise related to Brouwer's continuity theorem](https://twitter.com/gro_tsen/status/1443563164289966081)
 
 * [four notions of convergence of continuous functions](https://twitter.com/gro_tsen/status/1444595877704880134)
+
+* [a set of natural numbers of which ZFC doesn't prove that the smallest is even or odd](https://twitter.com/gro_tsen/status/1445705667206004744)
 
 * [the double complement of ℚ in the effective topos](https://twitter.com/gro_tsen/status/1446113269689688075)
 
@@ -162,6 +166,8 @@
 
 * ["orthogonality" to a dense subset of ℓ²](https://twitter.com/gro_tsen/status/1485904876605521923)
 
+* [a brief explanation of forcing {in French}](https://twitter.com/gro_tsen/status/1486654230299619341)
+
 * [thoughts on Ext between vector spaces in ZF](https://twitter.com/gro_tsen/status/1488645941775249409)
 
 * [approximating equilateral triangles in square lattices](https://twitter.com/gro_tsen/status/1493562218448838665)
@@ -176,7 +182,7 @@
 
 * [examples accompanying the monster thread on the algebraic closures of fields](https://twitter.com/gro_tsen/status/1499728689881309201)
 
-* [writing numbers in base 2−i using 0, 1, i, −1, −i as digits](https://twitter.com/gro_tsen/status/1501612536373911553)
+* [writing complex numbers in base 2−i using 0, 1, i, −1, −i as digits](https://twitter.com/gro_tsen/status/1501612536373911553)
 
 * [focal points of a conic, seen in projective geometry](https://twitter.com/gro_tsen/status/1504428412328419329)
 
@@ -379,17 +385,49 @@
 
 * [jardin du Point du Jour à Verdelot](https://twitter.com/gro_tsen/status/1307788000093450242)
 
+* [arbres en fleur à Orsay](https://twitter.com/gro_tsen/status/1373693264839241728)
+
+* [vallée de la Louette et la Chalouette](https://twitter.com/gro_tsen/status/1401653738805379073)
+
+* [état de nos balades au 2021-06-13](https://twitter.com/gro_tsen/status/1404147435375636486)
+
 * [bizarrerie géographique à Lormaye (Eure-et-Loir)](https://twitter.com/gro_tsen/status/1419676242710867972)
+
+* [plan d'eau de Mézières-Écluzelles](https://twitter.com/gro_tsen/status/1419731306485886977)
+
+* [vallée de l'Eure du confluent à Anet](https://twitter.com/gro_tsen/status/1422252086104924166)
 
 * [donjon de Vez](https://twitter.com/gro_tsen/status/1434452197023133698)
 
 * [vallée de l'Automne](https://twitter.com/gro_tsen/status/1434581139532955650)
 
+* [les Andelys et alentours](https://twitter.com/gro_tsen/status/1452290759470764034)
+
+* [carrières de Feularde](https://twitter.com/gro_tsen/status/1492930062206779396)
+
+* [état de nos balades au 2022-02-18](https://twitter.com/gro_tsen/status/1494693797506301955)
+
+* [cerisiers en fleur à Versailles-Chèvreloup](https://twitter.com/gro_tsen/status/1504839032236294155)
+
+* [de Chevreues à Saint-Forget](https://twitter.com/gro_tsen/status/1505648565191946243)
+
+* [autour du lac de Cergy](https://twitter.com/gro_tsen/status/1528114225679409157)
+
+* [parc André Malraux à Nanterre](https://twitter.com/gro_tsen/status/1528442022369103876)
+
+* [entre Colombes et Nanterre](https://twitter.com/gro_tsen/status/1548396630751059968)
+
+* [sanatorium d'Aincourt](https://twitter.com/gro_tsen/status/1557039582142943233)
+
 * [entre Suresnes et Puteaux](https://twitter.com/gro_tsen/status/1566131975093616645)
 
 * [entre Dampierre et Senlisse](https://twitter.com/gro_tsen/status/1571262521348132867)
 
+* [jardin des impressionnistes à Rueil-Malmaison](https://twitter.com/gro_tsen/status/1571525709864239109)
+
 * [entre Nanterre et Bougival](https://twitter.com/gro_tsen/status/1571564622972440578)
+
+* [tour de Montlhéry](https://twitter.com/gro_tsen/status/1579177701432098816)
 
 * [désert de Retz](https://twitter.com/gro_tsen/status/1583862169573412864)
 
@@ -469,6 +507,8 @@
 * [on the history of the “dangerous bend” symbol](https://twitter.com/gro_tsen/status/1471933049873080322)
 
 * [on Russian vs Ukrainian vowels](https://twitter.com/gro_tsen/status/1497334766366040070)
+
+* [mathematical terms that can be surprising to the general public](https://twitter.com/gro_tsen/status/1505535853506056195)
 
 * [on binding precedent {in French}](https://twitter.com/gro_tsen/status/1513497456843145221)
 

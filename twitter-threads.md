@@ -176,6 +176,8 @@
 
 * [examples accompanying the monster thread on the algebraic closures of fields](https://twitter.com/gro_tsen/status/1499728689881309201)
 
+* [writing numbers in base 2−i using 0, 1, i, −1, −i as digits](https://twitter.com/gro_tsen/status/1501612536373911553)
+
 * [focal points of a conic, seen in projective geometry](https://twitter.com/gro_tsen/status/1504428412328419329)
 
 * [the q-analogue of binomial coefficients](https://twitter.com/gro_tsen/status/1504917746005458944)
@@ -250,6 +252,8 @@
 * [RGB and the color of the human cone receptors](https://twitter.com/gro_tsen/status/1428136237697753090)
 
 * [why do smartphone compasses need recalibration?](https://twitter.com/gro_tsen/status/1429212478538452997)
+
+* [some (mostly typographic) conventions I try to follow](https://twitter.com/gro_tsen/status/1463950396150456330)
 
 * [an algorithm for partitioning a country in two](https://twitter.com/gro_tsen/status/1530670251871899650)
 
@@ -365,6 +369,8 @@
 
 * [allée royale de Villepreux](https://twitter.com/gro_tsen/status/1107781840046379008)
 
+* [le domaine de Méréville](https://twitter.com/gro_tsen/status/1114927160744128512)
+
 * [le domaine de Chamarande](https://twitter.com/gro_tsen/status/1120447909793808384)
 
 * [remarques sur les types de forêts](https://twitter.com/gro_tsen/status/1269395339754319875)
@@ -468,6 +474,8 @@
 
 * [the presentation of the IPCC reports is atrocious](https://twitter.com/gro_tsen/status/1523810010530295808)
 
+* [some (humorous) conspiracy theories that have yet to catch on](https://twitter.com/gro_tsen/status/1531252539735396352)
+
 * [on the order of adjectives](https://twitter.com/gro_tsen/status/1545769196256124928)
 
 * [re teachers sleeping with their students {in French}](https://twitter.com/gro_tsen/status/1546797672853639170)
@@ -480,7 +488,14 @@
 
 * [we need more solarpunk movies](https://twitter.com/gro_tsen/status/1569070188271747073)
 
+* [can you say “I met King Charles III” if you met him before he was king?](https://twitter.com/gro_tsen/status/1573294844524601346)
+
 * [on Elon Musk buying Twitter](https://twitter.com/gro_tsen/status/1586032269877444608)
+
+
+## Collections of tweets not by me ##
+
+* [horny on main (a collection of guy pics)](https://twitter.com/i/events/1428787171129966594)
 
 
 ## Pinned thread ##

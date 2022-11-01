@@ -114,6 +114,8 @@
 
 * 2021-02-12: [decoding the principle of well-founded induction](https://twitter.com/gro_tsen/status/1360304825141923841)
 
+* 2021-03-01: [a course on Gale-Stewart games {in French}](https://twitter.com/gro_tsen/status/1366403118456520706)
+
 * 2021-03-04: [why do we use elliptic curves in cryptography?, and the quest for cyclic groups](https://twitter.com/gro_tsen/status/1367443488141422603)
 
 * 2021-04-09: [how to popularize the notion of groups](https://twitter.com/gro_tsen/status/1380650298872639488)
@@ -162,6 +164,8 @@
 
 ### 2022 ###
 
+* 2022-01-16: [six notions of “nonstandard computable”](https://twitter.com/gro_tsen/status/1482664452143075333)
+
 * 2022-01-19: [filters of various sets](https://twitter.com/gro_tsen/status/1483836403784028165)
 
 * 2022-01-25: ["orthogonality" to a dense subset of ℓ²](https://twitter.com/gro_tsen/status/1485904876605521923)
@@ -202,6 +206,8 @@
 
 * 2022-05-02: [the shape of the conjugacy classes in a Lie group](https://twitter.com/gro_tsen/status/1521271263427284993)
 
+* 2022-06-11: [algorithmically finding the rational with least denominator in a given interval](https://twitter.com/gro_tsen/status/1535689722185584642)
+
 * 2022-06-13: [why are there pseudorandom generators but not pseudogeneric generators?](https://twitter.com/gro_tsen/status/1536478688304406529)
 
 * 2022-06-16: [convexity of intervals in constructive math](https://twitter.com/gro_tsen/status/1537503107470565377)
@@ -221,6 +227,8 @@
 * 2022-09-01: [optics and geometry](https://twitter.com/gro_tsen/status/1565445826150793218)
 
 * 2022-09-02: [the ray equation in optics](https://twitter.com/gro_tsen/status/1565722394102218753)
+
+* 2022-09-13: [2^(ℵ_α) = ℵ_(α+γ) is consistent iff γ is a natural number ≥1](https://twitter.com/gro_tsen/status/1569722109445963777)
 
 * 2022-10-04: [quantum correlations and nonlocality](https://twitter.com/gro_tsen/status/1577286661305556993)
 
@@ -260,6 +268,8 @@
 * 2021-08-21: [why do smartphone compasses need recalibration?](https://twitter.com/gro_tsen/status/1429212478538452997)
 
 * 2021-11-25: [some (mostly typographic) conventions I try to follow](https://twitter.com/gro_tsen/status/1463950396150456330)
+
+* 2022-01-17: [on the color of something infinitely hot (and how it was computed)](https://twitter.com/gro_tsen/status/1483221461519278090)
 
 * 2022-05-28: [an algorithm for partitioning a country in two](https://twitter.com/gro_tsen/status/1530670251871899650)
 
@@ -360,6 +370,8 @@
 
 * 2021-11-04: [meta-thread on epidemiology](https://twitter.com/gro_tsen/status/1456197171477454850)
 
+* 2021-12-13: [is it worse when a pathogen is more lethal or more transmissible? it depends on many things!](https://twitter.com/gro_tsen/status/1470443809662283788)
+
 * 2021-12-27: [on the silliness of outdoors mask mandates {in French}](https://twitter.com/gro_tsen/status/1475469192065425409)
 
 * 2021-12-29: [on the steady state of the SIR model](https://twitter.com/gro_tsen/status/1476338716797026309)
@@ -369,6 +381,8 @@
 * 2022-09-20: [weird coincidences about covid {in French}](https://twitter.com/gro_tsen/status/1572231411767164933)
 
 * 2022-10-04: [monkeypox stopped growing: why didn't anybody care?](https://twitter.com/gro_tsen/status/1577255149407375360)
+
+* 2022-10-16: [multiply infected having worse outcomes doesn't mean multiple infections tend to be worse](https://twitter.com/gro_tsen/status/1581724609648668677)
 
 
 ## Balades autour de Paris {en français} ##
@@ -410,6 +424,8 @@
 * 2022-03-18: [cerisiers en fleur à Versailles-Chèvreloup](https://twitter.com/gro_tsen/status/1504839032236294155)
 
 * 2022-03-20: [de Chevreues à Saint-Forget](https://twitter.com/gro_tsen/status/1505648565191946243)
+
+* 2022-05-01: [quelques vues de Honfleur](https://twitter.com/gro_tsen/status/1520833225047912451)
 
 * 2022-05-21: [autour du lac de Cergy](https://twitter.com/gro_tsen/status/1528114225679409157)
 
@@ -494,6 +510,8 @@
 
 * 2021-07-06: [dérivation d'une ligne électrique 225kV {en français}](https://twitter.com/gro_tsen/status/1412538789671718915)
 
+* 2021-07-09: [AI-generated images for a set of standard prompts](https://twitter.com/gro_tsen/status/1413607355535798273)
+
 * 2021-07-12: [people we follow can lock us in a content bubble, but so can people who follow us](https://twitter.com/gro_tsen/status/1414695106133757952)
 
 * 2021-07-17: [do governments trust their population?](https://twitter.com/gro_tsen/status/1416549981708771329)
@@ -505,6 +523,8 @@
 * 2021-11-02: [sur le concours général des lycées {en français}](https://twitter.com/gro_tsen/status/1455454958766153729)
 
 * 2021-12-01: [on the Apple TV *Foundation* series](https://twitter.com/gro_tsen/status/1466161859053170696)
+
+* 2021-12-13: [histoire des collectivités territoriales en France {en français}](https://twitter.com/gro_tsen/status/1470336430174093316)
 
 * 2021-12-17: [on the history of the “dangerous bend” symbol](https://twitter.com/gro_tsen/status/1471933049873080322)
 
@@ -522,6 +542,8 @@
 
 * 2022-07-12: [re teachers sleeping with their students {in French}](https://twitter.com/gro_tsen/status/1546797672853639170)
 
+* 2022-08-10: [various illustrations of climate change](https://twitter.com/gro_tsen/status/1557451191046529028)
+
 * 2022-08-21: [one-star and five-star reviews outnumber the rest](https://twitter.com/gro_tsen/status/1561427563213381634)
 
 * 2022-08-31: [videos of a rotating transparent dodecahedron](https://twitter.com/gro_tsen/status/1564991176301756417)
@@ -531,6 +553,8 @@
 * 2022-09-11: [we need more solarpunk movies](https://twitter.com/gro_tsen/status/1569070188271747073)
 
 * 2022-09-23: [can you say “I met King Charles III” if you met him before he was king?](https://twitter.com/gro_tsen/status/1573294844524601346)
+
+* 2022-10-16: [it's OK to “steal” jokes](https://twitter.com/gro_tsen/status/1581690464251842560)
 
 * 2022-10-28: [on Elon Musk buying Twitter](https://twitter.com/gro_tsen/status/1586032269877444608)
 

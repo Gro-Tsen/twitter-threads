@@ -1,3 +1,16 @@
+**Note:** To read these threads without a Twitter account, if the
+direct link does not link (e.g., if you get an obnoxious popup
+blocking the view and asking you to log in, try replacing
+`twitter.com` by `nitter.it` in the URL, e.g.,
+[`https://nitter.it/gro_tsen/status/1586032269877444608`](https://nitter.it/gro_tsen/status/1586032269877444608)
+instead of
+[`https://twitter.com/gro_tsen/status/1586032269877444608`](https://twitter.com/gro_tsen/status/1586032269877444608)).
+Some of these links (but not all) can also be accessed via
+ThreadReaderApp, e.g. use
+[`https://threadreaderapp.com/thread/1586032269877444608.html`](https://threadreaderapp.com/thread/1586032269877444608.html)
+for this same thread.  (When I convert this Markdown file to HTML I
+will try to make it easy to get the link to any version.)
+
 ## Mathematics (+ theoretical computer science / physics) ##
 
 ### 2019 ###

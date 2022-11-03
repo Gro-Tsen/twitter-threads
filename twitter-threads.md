@@ -406,6 +406,8 @@ will try to make it easy to get the link to any version.)
 
 * 2019-04-22: [le domaine de Chamarande](https://twitter.com/gro_tsen/status/1120447909793808384)
 
+* 2019-11-08: [vaches des Highlands de Saint-Lambert-des-Bois](https://twitter.com/gro_tsen/status/1192843039766720513)
+
 * 2020-06-06: [remarques sur les types de forêts](https://twitter.com/gro_tsen/status/1269395339754319875)
 
 * 2020-08-04: [rencontres à moto](https://twitter.com/gro_tsen/status/1290802387985334275)
@@ -429,6 +431,8 @@ will try to make it easy to get the link to any version.)
 * 2021-09-05: [vallée de l'Automne](https://twitter.com/gro_tsen/status/1434581139532955650)
 
 * 2021-10-24: [les Andelys et alentours](https://twitter.com/gro_tsen/status/1452290759470764034)
+
+* 2021-12-11: [vaches des Highlands de Saint-Lambert-des-Bois, suite](https://twitter.com/gro_tsen/status/1469725682963992583)
 
 * 2022-02-13: [carrières de Feularde](https://twitter.com/gro_tsen/status/1492930062206779396)
 
@@ -554,6 +558,8 @@ will try to make it easy to get the link to any version.)
 * 2022-07-09: [on the order of adjectives](https://twitter.com/gro_tsen/status/1545769196256124928)
 
 * 2022-07-12: [re teachers sleeping with their students {in French}](https://twitter.com/gro_tsen/status/1546797672853639170)
+
+* 2022-07-23: [courrier au Parc naturel régional de la Vallée de Chevreuse au sujet des vaches des Highlands {en français}](https://twitter.com/gro_tsen/status/1550918838551805956)
 
 * 2022-08-10: [various illustrations of climate change](https://twitter.com/gro_tsen/status/1557451191046529028)
 

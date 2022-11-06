@@ -579,6 +579,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-11-03: [driving at 110km/h vs at 130km/h {in French}](https://twitter.com/gro_tsen/status/1588117983175516162)
 
+* 2022-11-06: [propriété intellectuelle sur l'éclairage nocturne de la tour Eiffel {en français}](https://twitter.com/gro_tsen/status/1589182533442248704)
+
 
 ## Collections of tweets not by me ##
 

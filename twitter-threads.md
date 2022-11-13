@@ -466,6 +466,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-10-22: [désert de Retz](https://twitter.com/gro_tsen/status/1583862169573412864)
 
+* 2022-11-13: [le Plessis-Robinson](https://twitter.com/gro_tsen/status/1591847260828188677)
+
 
 ## Various other topics ##
 
@@ -580,6 +582,8 @@ will try to make it easy to get the link to any version.)
 * 2022-11-03: [driving at 110km/h vs at 130km/h {in French}](https://twitter.com/gro_tsen/status/1588117983175516162)
 
 * 2022-11-06: [propriété intellectuelle sur l'éclairage nocturne de la tour Eiffel {en français}](https://twitter.com/gro_tsen/status/1589182533442248704)
+
+* 2022-11-09: [billionaire tech bosses are not geniuses](https://twitter.com/gro_tsen/status/1590387937195479040)
 
 
 ## Collections of tweets not by me ##

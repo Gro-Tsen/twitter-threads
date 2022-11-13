@@ -300,6 +300,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-10-28: [average mean temperature in France by season and year {in French}](https://twitter.com/gro_tsen/status/1586002146381959168)
 
+* 2022-11-13: [the entire HTTPS security model makes no sense](https://twitter.com/gro_tsen/status/1591864618557014016)
+
 
 ## Epidemiology and/or covid ##
 

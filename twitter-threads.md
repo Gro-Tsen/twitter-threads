@@ -473,6 +473,8 @@ will try to make it easy to get the link to any version.)
 
 ## Various other topics ##
 
+* 2018-10-06: [on linguistic prescriptivism {in French}](https://twitter.com/gro_tsen/status/1048506626725036032)
+
 * 2019-03-29: [the danger of seeing morals in black and white](https://twitter.com/gro_tsen/status/1111696170496212992)
 
 * 2019-04-18: [how journalists choose their experts {in French}](https://twitter.com/gro_tsen/status/1118796457568501760)

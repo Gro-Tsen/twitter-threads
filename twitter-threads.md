@@ -251,6 +251,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-10-14: [the Sierpiński space in constructive math](https://twitter.com/gro_tsen/status/1580997434943369217)
 
+* 2022-11-17: [proving equality between reals from P and ¬P in constructive math](https://twitter.com/gro_tsen/status/1593363447563145219)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

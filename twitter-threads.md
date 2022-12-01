@@ -253,6 +253,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-11-17: [proving equality between reals from P and ¬P in constructive math](https://twitter.com/gro_tsen/status/1593363447563145219)
 
+* 2022-12-01: [a very short definition of the Lebesgue integral {in French}](https://twitter.com/gro_tsen/status/1598264237016899584)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

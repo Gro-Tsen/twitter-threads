@@ -310,6 +310,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-03: [sur la capacité de stockage STEP de l'électricité {en français}](https://twitter.com/gro_tsen/status/1599025479964839937)
 
+* 2022-12-03: [thoughts on the CGPM's decision to scrap seconds](https://twitter.com/gro_tsen/status/1599107751593943040)
+
 
 ## Epidemiology and/or covid ##
 

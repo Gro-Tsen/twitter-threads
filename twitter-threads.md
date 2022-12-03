@@ -255,6 +255,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-01: [a very short definition of the Lebesgue integral {in French}](https://twitter.com/gro_tsen/status/1598264237016899584)
 
+* 2022-12-02: [if x\_n→0 mod A for every A, does it follow that x\_n→0 in ℝ?](https://twitter.com/gro_tsen/status/1598784030622851072)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -305,6 +307,8 @@ will try to make it easy to get the link to any version.)
 * 2022-10-28: [average mean temperature in France by season and year {in French}](https://twitter.com/gro_tsen/status/1586002146381959168)
 
 * 2022-11-13: [the entire HTTPS security model makes no sense](https://twitter.com/gro_tsen/status/1591864618557014016)
+
+* 2022-12-03: [sur la capacité de stockage STEP de l'électricité {en français}](https://twitter.com/gro_tsen/status/1599025479964839937)
 
 
 ## Epidemiology and/or covid ##
@@ -569,6 +573,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-07-12: [re teachers sleeping with their students {in French}](https://twitter.com/gro_tsen/status/1546797672853639170)
 
+* 2022-07-17: [the ultimate question and the ultimate answer](https://twitter.com/gro_tsen/status/1548755541270401036)
+
 * 2022-07-23: [courrier au Parc naturel régional de la Vallée de Chevreuse au sujet des vaches des Highlands {en français}](https://twitter.com/gro_tsen/status/1550918838551805956)
 
 * 2022-08-10: [various illustrations of climate change](https://twitter.com/gro_tsen/status/1557451191046529028)
@@ -592,6 +598,8 @@ will try to make it easy to get the link to any version.)
 * 2022-11-06: [propriété intellectuelle sur l'éclairage nocturne de la tour Eiffel {en français}](https://twitter.com/gro_tsen/status/1589182533442248704)
 
 * 2022-11-09: [billionaire tech bosses are not geniuses](https://twitter.com/gro_tsen/status/1590387937195479040)
+
+* 2022-12-03: [sur l'importance de comprendre la différence entre énergie et puissance {en français}](https://twitter.com/gro_tsen/status/1598998191659450368)
 
 
 ## Collections of tweets not by me ##

@@ -312,6 +312,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-03: [thoughts on the CGPM's decision to scrap seconds](https://twitter.com/gro_tsen/status/1599107751593943040)
 
+* 2022-12-05: [distribution of France's electrical power consumption and production {in French}](https://twitter.com/gro_tsen/status/1599852942034898945)
+
 
 ## Epidemiology and/or covid ##
 

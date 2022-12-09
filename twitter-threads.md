@@ -607,6 +607,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-03: [sur l'importance de comprendre la différence entre énergie et puissance {en français}](https://twitter.com/gro_tsen/status/1598998191659450368)
 
+* 2022-12-09: [accusative alignment versus ergative alignment](https://twitter.com/gro_tsen/status/1601242125093388288)
+
 
 ## Collections of tweets not by me ##
 

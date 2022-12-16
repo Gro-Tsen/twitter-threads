@@ -257,6 +257,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-02: [if x\_n→0 mod A for every A, does it follow that x\_n→0 in ℝ?](https://twitter.com/gro_tsen/status/1598784030622851072)
 
+* 2022-12-16: [an exercise in probability (keeping the k best of n die throws)](https://twitter.com/gro_tsen/status/1603363831715188736)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -315,6 +317,8 @@ will try to make it easy to get the link to any version.)
 * 2022-12-05: [distribution of France's electrical power consumption and production {in French}](https://twitter.com/gro_tsen/status/1599852942034898945)
 
 * 2022-12-06: [distribution of France's electrical power consumption and production, part 2 {in French}](https://twitter.com/gro_tsen/status/1600094366214725633)
+
+* 2022-12-16: [autocorrelation of temperature in France at n days interval {in French}](https://twitter.com/gro_tsen/status/1603808798157709313)
 
 
 ## Epidemiology and/or covid ##

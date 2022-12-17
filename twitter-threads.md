@@ -320,6 +320,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-16: [autocorrelation of temperature in France at n days interval {in French}](https://twitter.com/gro_tsen/status/1603808798157709313)
 
+* 2022-12-17: [correlation of temperatures between various French cities {in French}](https://twitter.com/gro_tsen/status/1604073667868372992)
+
 
 ## Epidemiology and/or covid ##
 

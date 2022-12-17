@@ -298,6 +298,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-08-04: [a proposal for dealing with leap seconds](https://twitter.com/gro_tsen/status/1555273758130192385)
 
+* 2022-08-16: [scatterplot of various meteorological variables {in French}](https://twitter.com/gro_tsen/status/1559632771110289409)
+
 * 2022-08-18: [time seems to be rounded down rather than to closest](https://twitter.com/gro_tsen/status/1560368680554356738)
 
 * 2022-08-27: [amount of information in a tweet](https://twitter.com/gro_tsen/status/1563583510430228480)

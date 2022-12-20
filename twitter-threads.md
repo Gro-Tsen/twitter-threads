@@ -13,6 +13,10 @@ will try to make it easy to get the link to any version.)
 
 ## Mathematics (+ theoretical computer science / physics) ##
 
+### 2018 ###
+
+* 2018-08-15: [a few facts about the 27 lines on the cubic surface](https://twitter.com/gro_tsen/status/1029713783302828033)
+
 ### 2019 ###
 
 * 2019-01-23: [on the density topology](https://twitter.com/gro_tsen/status/1088194783435210760)
@@ -494,6 +498,8 @@ will try to make it easy to get the link to any version.)
 
 
 ## Various other topics ##
+
+* 2018-08-26: [what is totipsism?](https://twitter.com/gro_tsen/status/1033768322310045697)
 
 * 2018-10-06: [on linguistic prescriptivism {in French}](https://twitter.com/gro_tsen/status/1048506626725036032)
 

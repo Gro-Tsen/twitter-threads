@@ -603,6 +603,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-08-31: [videos of a rotating transparent dodecahedron](https://twitter.com/gro_tsen/status/1564991176301756417)
 
+* 2022-09-09: [20 counterfactual statements (a poll)](https://twitter.com/gro_tsen/status/1568298771263414273)
+
 * 2022-09-11: [on the history of “God Save the King”](https://twitter.com/gro_tsen/status/1568907687823278080)
 
 * 2022-09-11: [we need more solarpunk movies](https://twitter.com/gro_tsen/status/1569070188271747073)

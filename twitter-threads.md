@@ -625,6 +625,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-09: [accusative alignment versus ergative alignment](https://twitter.com/gro_tsen/status/1601242125093388288)
 
+* 2022-12-20: [the reason why carots are orange](https://twitter.com/gro_tsen/status/1605209308660224000)
+
 
 ## Collections of tweets not by me ##
 

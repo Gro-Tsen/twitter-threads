@@ -630,7 +630,7 @@ will try to make it easy to get the link to any version.)
 
 ## Collections of tweets not by me ##
 
-* [horny on main (a collection of guy pics)](https://twitter.com/i/events/1428787171129966594)
+* [horny on main (a collection of guy pics)](https://twitter.com/gro_tsen/status/1605511921175736320)
 
 
 ## Pinned thread ##

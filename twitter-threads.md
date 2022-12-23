@@ -302,6 +302,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-08-04: [a proposal for dealing with leap seconds](https://twitter.com/gro_tsen/status/1555273758130192385)
 
+* 2022-08-10: [various illustrations of climate change](https://twitter.com/gro_tsen/status/1557451191046529028)
+
 * 2022-08-16: [scatterplot of various meteorological variables {in French}](https://twitter.com/gro_tsen/status/1559632771110289409)
 
 * 2022-08-18: [time seems to be rounded down rather than to closest](https://twitter.com/gro_tsen/status/1560368680554356738)
@@ -329,6 +331,8 @@ will try to make it easy to get the link to any version.)
 * 2022-12-16: [autocorrelation of temperature in France at n days interval {in French}](https://twitter.com/gro_tsen/status/1603808798157709313)
 
 * 2022-12-17: [correlation of temperatures between various French cities {in French}](https://twitter.com/gro_tsen/status/1604073667868372992)
+
+* 2022-12-23: [maps of climate change in Europe {in French}](https://twitter.com/gro_tsen/status/1606424163949895684)
 
 
 ## Epidemiology and/or covid ##
@@ -598,8 +602,6 @@ will try to make it easy to get the link to any version.)
 * 2022-07-17: [the ultimate question and the ultimate answer](https://twitter.com/gro_tsen/status/1548755541270401036)
 
 * 2022-07-23: [courrier au Parc naturel régional de la Vallée de Chevreuse au sujet des vaches des Highlands {en français}](https://twitter.com/gro_tsen/status/1550918838551805956)
-
-* 2022-08-10: [various illustrations of climate change](https://twitter.com/gro_tsen/status/1557451191046529028)
 
 * 2022-08-21: [one-star and five-star reviews outnumber the rest](https://twitter.com/gro_tsen/status/1561427563213381634)
 

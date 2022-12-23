@@ -324,6 +324,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-06: [distribution of France's electrical power consumption and production, part 2 {in French}](https://twitter.com/gro_tsen/status/1600094366214725633)
 
+* 2022-12-11: [distribution of temperature by day of year in France {in French}](https://twitter.com/gro_tsen/status/1602059360582402049)
+
 * 2022-12-16: [autocorrelation of temperature in France at n days interval {in French}](https://twitter.com/gro_tsen/status/1603808798157709313)
 
 * 2022-12-17: [correlation of temperatures between various French cities {in French}](https://twitter.com/gro_tsen/status/1604073667868372992)

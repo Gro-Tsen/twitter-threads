@@ -595,6 +595,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-05-30: [some (humorous) conspiracy theories that have yet to catch on](https://twitter.com/gro_tsen/status/1531252539735396352)
 
+* 2022-07-08: [words whose etymologies are surprisingly unrelated {in French}](https://twitter.com/gro_tsen/status/1545213723635228672)
+
 * 2022-07-09: [on the order of adjectives](https://twitter.com/gro_tsen/status/1545769196256124928)
 
 * 2022-07-12: [re teachers sleeping with their students {in French}](https://twitter.com/gro_tsen/status/1546797672853639170)

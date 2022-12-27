@@ -263,6 +263,10 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-15: [an exercise in probability (keeping the k best of n die throws)](https://twitter.com/gro_tsen/status/1603363831715188736)
 
+* 2022-12-27: [a caveat on subspaces of quotient topological spaces](https://twitter.com/gro_tsen/status/1607794658561622018)
+
+* 2022-12-27: [computing the curve at distance d from another one](https://twitter.com/gro_tsen/status/1607802987845455879)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -333,6 +337,8 @@ will try to make it easy to get the link to any version.)
 * 2022-12-17: [correlation of temperatures between various French cities {in French}](https://twitter.com/gro_tsen/status/1604073667868372992)
 
 * 2022-12-23: [maps of climate change in Europe {in French}](https://twitter.com/gro_tsen/status/1606424163949895684)
+
+* 2022-12-25: [temperature range in France by season and year {in French}](https://twitter.com/gro_tsen/status/1607111727757381635)
 
 
 ## Epidemiology and/or covid ##

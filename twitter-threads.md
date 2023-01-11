@@ -271,6 +271,10 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-04: [on the Lagrange spectrum and Freiman's constant](https://twitter.com/gro_tsen/status/1610757516002234368)
 
+* 2023-01-11: [on the determinant of the gcd matrix](https://twitter.com/gro_tsen/status/1613123535219589121)
+
+* 2023-01-11: [on the eigenvalues of the gcd matrix](https://twitter.com/gro_tsen/status/1613141199744864258)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

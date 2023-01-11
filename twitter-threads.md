@@ -609,6 +609,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-05-30: [some (humorous) conspiracy theories that have yet to catch on](https://twitter.com/gro_tsen/status/1531252539735396352)
 
+* 2022-06-20: [conversations with customer helplines {in French}](https://twitter.com/gro_tsen/status/1538845191330840576)
+
 * 2022-07-08: [words whose etymologies are surprisingly unrelated {in French}](https://twitter.com/gro_tsen/status/1545213723635228672)
 
 * 2022-07-09: [on the order of adjectives](https://twitter.com/gro_tsen/status/1545769196256124928)

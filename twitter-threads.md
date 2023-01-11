@@ -267,7 +267,7 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-27: [computing the curve at distance d from another one](https://twitter.com/gro_tsen/status/1607802987845455879)
 
-### 2019 ###
+### 2023 ###
 
 * 2023-01-04: [on the Lagrange spectrum and Freiman's constant](https://twitter.com/gro_tsen/status/1610757516002234368)
 

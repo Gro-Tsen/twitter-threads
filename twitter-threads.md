@@ -651,6 +651,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-12-25: [a collection of confusing facts, courtesy of the Context Club](https://twitter.com/gro_tsen/status/1606969447432216576)
 
+* 2023-01-15: [on the 1987 Soviet adaptation of ‘The End of Eternity’](https://twitter.com/gro_tsen/status/1614731915277512704)
+
 
 ## Collections of tweets not by me ##
 

@@ -11,6 +11,24 @@ ThreadReaderApp, e.g. use
 for this same thread.  (When I convert this Markdown file to HTML I
 will try to make it easy to get the link to any version.)
 
+
+## Sections of this page ##
+
+* [Mathematics (+ theoretical computer science / physics)](#mathematics--theoretical-computer-science--physics)
+
+* [Science, computers, technology, Unicode, etc. (inc. Twitter itself)](#science-computers-technology-unicode-etc-inc-twitter-itself)
+
+* [Epidemiology and/or covid](#epidemiology-andor-covid)
+
+* [Balades autour de Paris {en français}](#balades-autour-de-paris-en-fran%C3%A7ais)
+
+* [Various other topics](#various-other-topics)
+
+* [Collections of tweets not by me](#collections-of-tweets-not-by-me)
+
+* [Pinned thread](#pinned-thread)
+
+
 ## Mathematics (+ theoretical computer science / physics) ##
 
 ### 2018 ###

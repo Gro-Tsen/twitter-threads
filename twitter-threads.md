@@ -677,6 +677,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-15: [on the 1987 Soviet adaptation of ‘The End of Eternity’](https://twitter.com/gro_tsen/status/1614731915277512704)
 
+* 2023-01-19: [listing my 20 most popular tweets up to 2022](https://twitter.com/gro_tsen/status/1616139126654341121)
+
 
 ## Collections of tweets not by me ##
 

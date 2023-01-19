@@ -296,6 +296,8 @@ will try to make it easy to get the link to any version.)
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
+* 2018-11-02: [the international prototype of the kilogram is not “losing mass” as is sometimes claimed](https://twitter.com/gro_tsen/status/1058328623248277504)
+
 * 2019-04-03: [the C standard is unreadable](https://twitter.com/gro_tsen/status/1113388186821066753)
 
 * 2019-04-10: [on the ZWNJ character](https://twitter.com/gro_tsen/status/1115920689947660288)

@@ -683,4 +683,6 @@ will try to make it easy to get the link to any version.)
 
 ## Pinned thread ##
 
-* 2020-06-17: [pinned thread as of 2020-06-17](https://twitter.com/gro_tsen/status/1273255569680465920)
+* 2020-06-17: [pinned self-description thread as of 2020-06-17](https://twitter.com/gro_tsen/status/1273255569680465920)
+
+* 2023-01-19: [pinned self-description thread as of 2023-01-19](https://twitter.com/gro_tsen/status/1616038783731785728)

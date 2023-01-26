@@ -55,6 +55,8 @@ will try to make it easy to get the link to any version.)
 
 * 2019-04-09: [a long thread on Gödel's theorem {in French}](https://twitter.com/gro_tsen/status/1115701485726314496)
 
+* 2019-04-15: [a possible confusion about Boolean algebras and their Stone spaces](https://twitter.com/gro_tsen/status/1117734482335948800)
+
 * 2019-05-31: [from a distribution on complex projective space to one on the simplex](https://twitter.com/gro_tsen/status/1134557643526365184)
 
 * 2019-06-07: [maximal ideals of C(X) versus C*(X)](https://twitter.com/gro_tsen/status/1137012373024321537)
@@ -372,6 +374,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-17: [how our cells produce ATP](https://twitter.com/gro_tsen/status/1615455466611703808)
 
+* 2023-01-26: [gravitation travels at the speed of light but still acts as intantantaneous action at a distance](https://twitter.com/gro_tsen/status/1618684916094615552)
+
 
 ## Epidemiology and/or covid ##
 
@@ -679,10 +683,12 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-19: [listing my 20 most popular tweets up to 2022](https://twitter.com/gro_tsen/status/1616139126654341121)
 
+* 2023-01-26: [variations on the German eagle](https://twitter.com/gro_tsen/status/1618553677035483137)
+
 
 ## Collections of tweets not by me ##
 
-* [horny on main (a collection of guy pics)](https://twitter.com/gro_tsen/status/1605511921175736320)
+* 2022-12-21: [horny on main (a collection of guy pics)](https://twitter.com/gro_tsen/status/1605511921175736320)
 
 
 ## Pinned thread ##

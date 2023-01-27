@@ -295,6 +295,10 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-11: [on the eigenvalues of the gcd matrix](https://twitter.com/gro_tsen/status/1613141199744864258)
 
+* 2023-01-27: [a riddle about hats](https://twitter.com/gro_tsen/status/1618989823100096512)
+
+* 2023-01-27: [a perfect information game (taking turns to pick items)](https://twitter.com/gro_tsen/status/1619045756215885824)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

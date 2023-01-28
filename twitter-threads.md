@@ -306,6 +306,8 @@ will try to make it easy to get the link to any version.)
 
 * 2018-11-02: [the international prototype of the kilogram is not “losing mass” as is sometimes claimed](https://twitter.com/gro_tsen/status/1058328623248277504)
 
+* 2018-11-02: [images of the international prototype of the kilogram](https://twitter.com/gro_tsen/status/1058330039035531264)
+
 * 2019-04-03: [the C standard is unreadable](https://twitter.com/gro_tsen/status/1113388186821066753)
 
 * 2019-04-10: [on the ZWNJ character](https://twitter.com/gro_tsen/status/1115920689947660288)
@@ -381,6 +383,8 @@ will try to make it easy to get the link to any version.)
 * 2023-01-17: [how our cells produce ATP](https://twitter.com/gro_tsen/status/1615455466611703808)
 
 * 2023-01-26: [gravitation travels at the speed of light but still acts as intantantaneous action at a distance](https://twitter.com/gro_tsen/status/1618684916094615552)
+
+* 2023-01-28: [why forces in relativity appear to act as if instantaneously {in French}](https://twitter.com/gro_tsen/status/1619291500046880768)
 
 
 ## Epidemiology and/or covid ##

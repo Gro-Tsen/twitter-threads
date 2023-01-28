@@ -299,6 +299,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-27: [a perfect information game (taking turns to pick items)](https://twitter.com/gro_tsen/status/1619045756215885824)
 
+* 2023-01-27: [summarizing Hartshorne's ‘Algebraic Geometry’ in 6 tweets (as a joke…)](https://twitter.com/gro_tsen/status/1619087962884431877)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -686,6 +688,8 @@ will try to make it easy to get the link to any version.)
 * 2023-01-15: [on the 1987 Soviet adaptation of ‘The End of Eternity’](https://twitter.com/gro_tsen/status/1614731915277512704)
 
 * 2023-01-19: [listing my 20 most popular tweets up to 2022](https://twitter.com/gro_tsen/status/1616139126654341121)
+
+* 2023-01-23: [what do the amino acids taste like?](https://twitter.com/gro_tsen/status/1617470901934505988)
 
 * 2023-01-26: [variations on the German eagle](https://twitter.com/gro_tsen/status/1618553677035483137)
 

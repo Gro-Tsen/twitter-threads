@@ -386,6 +386,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-28: [why forces in relativity appear to act as if instantaneously {in French}](https://twitter.com/gro_tsen/status/1619291500046880768)
 
+* 2023-01-30: [does arsenic have a biological role?](https://twitter.com/gro_tsen/status/1620058162299801600)
+
 
 ## Epidemiology and/or covid ##
 
@@ -698,6 +700,8 @@ will try to make it easy to get the link to any version.)
 * 2023-01-26: [variations on the German eagle](https://twitter.com/gro_tsen/status/1618553677035483137)
 
 * 2023-01-28: [on an omniscient oracle, but with a twist (tripartite answers)](https://twitter.com/gro_tsen/status/1619360245196939266)
+
+* 2023-01-30: [on the taste of cysteine and phelylalanine](https://twitter.com/gro_tsen/status/1620119041993240576)
 
 
 ## Collections of tweets not by me ##

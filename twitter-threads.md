@@ -388,6 +388,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-30: [does arsenic have a biological role?](https://twitter.com/gro_tsen/status/1620058162299801600)
 
+* 2023-01-31: [how to obtain daily average temperatures in France {in French}](https://twitter.com/gro_tsen/status/1620435663844970497)
+
 
 ## Epidemiology and/or covid ##
 

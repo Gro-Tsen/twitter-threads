@@ -390,6 +390,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-31: [how to obtain daily average temperatures in France {in French}](https://twitter.com/gro_tsen/status/1620435663844970497)
 
+* 2023-01-31: [a statistical analysis of daily temperatures in France {in French}](https://twitter.com/gro_tsen/status/1620488744867598337)
+
 
 ## Epidemiology and/or covid ##
 

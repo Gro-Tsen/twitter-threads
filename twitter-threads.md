@@ -301,6 +301,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-27: [summarizing Hartshorne's ‘Algebraic Geometry’ in 6 tweets (as a joke…)](https://twitter.com/gro_tsen/status/1619087962884431877)
 
+* 2023-02-02: [first-order Langevin diffusion](https://twitter.com/gro_tsen/status/1621114283131297794)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -391,6 +393,8 @@ will try to make it easy to get the link to any version.)
 * 2023-01-31: [how to obtain daily average temperatures in France {in French}](https://twitter.com/gro_tsen/status/1620435663844970497)
 
 * 2023-01-31: [a statistical analysis of daily temperatures in France {in French}](https://twitter.com/gro_tsen/status/1620488744867598337)
+
+* 2023-02-02: [Twitter is ending its free public API (and what this means)](https://twitter.com/gro_tsen/status/1621179199758409728)
 
 * 2023-02-03: [trying to reverse-engineer the format of the Android Twitter app's cache](https://twitter.com/gro_tsen/status/1621455828271206401)
 

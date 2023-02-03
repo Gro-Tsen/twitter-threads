@@ -392,6 +392,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-01-31: [a statistical analysis of daily temperatures in France {in French}](https://twitter.com/gro_tsen/status/1620488744867598337)
 
+* 2023-02-03: [trying to reverse-engineer the format of the Android Twitter app's cache](https://twitter.com/gro_tsen/status/1621455828271206401)
+
 
 ## Epidemiology and/or covid ##
 

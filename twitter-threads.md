@@ -467,7 +467,7 @@ will try to make it easy to get the link to any version.)
 
 * 2021-04-11: [on a bunch of unfounded assumptions {in French}](https://twitter.com/gro_tsen/status/1381290798126358529)
 
-* 2021-04-12: [on the temptation to predict the future {in French}](https://twitter.com/gro_tsen/status/1381618124554964992)
+* 2021-04-12: [on resisting the temptation to predict the future {in French}](https://twitter.com/gro_tsen/status/1381618124554964992)
 
 * 2021-04-15: [numerical simulations of an epidemic with two viral variants and heterogeneity](https://twitter.com/gro_tsen/status/1382691252165079047)
 

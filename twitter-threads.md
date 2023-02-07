@@ -398,6 +398,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-03: [trying to reverse-engineer the format of the Android Twitter app's cache](https://twitter.com/gro_tsen/status/1621455828271206401)
 
+* 2023-02-06: [quick tuto for grabbing JSON data from Twitter through Firefox](https://twitter.com/gro_tsen/status/1622550131760406528)
+
 
 ## Epidemiology and/or covid ##
 
@@ -649,6 +651,8 @@ will try to make it easy to get the link to any version.)
 
 * 2021-12-17: [on the history of the “dangerous bend” symbol](https://twitter.com/gro_tsen/status/1471933049873080322)
 
+* 2022-02-13: [on the ‘Backrooms’ Internet meme/legend](https://twitter.com/gro_tsen/status/1492967197689405445)
+
 * 2022-02-25: [on Russian vs Ukrainian vowels](https://twitter.com/gro_tsen/status/1497334766366040070)
 
 * 2022-03-20: [mathematical terms that can be surprising to the general public](https://twitter.com/gro_tsen/status/1505535853506056195)
@@ -712,6 +716,8 @@ will try to make it easy to get the link to any version.)
 * 2023-01-28: [on an omniscient oracle, but with a twist (tripartite answers)](https://twitter.com/gro_tsen/status/1619360245196939266)
 
 * 2023-01-30: [on the taste of cysteine and phelylalanine](https://twitter.com/gro_tsen/status/1620119041993240576)
+
+* 2023-02-07: [on the fear and fascination of liminal spaces](https://twitter.com/gro_tsen/status/1622907259192762368)
 
 
 ## Collections of tweets not by me ##

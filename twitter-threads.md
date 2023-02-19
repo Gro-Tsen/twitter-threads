@@ -400,6 +400,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-06: [quick tuto for grabbing JSON data from Twitter through Firefox](https://twitter.com/gro_tsen/status/1622550131760406528)
 
+* 2023-02-08: [very quick notes about the Twitter “archive of your data”](https://twitter.com/gro_tsen/status/1623376287308910605)
+
 
 ## Epidemiology and/or covid ##
 

@@ -404,6 +404,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-21: [Perl scripts to process JSON data sent by Twitter to its web client and store in a PostgreSQL database](https://twitter.com/gro_tsen/status/1628036895308496901)
 
+* 2023-02-23: [on the process I use to scrape my own tweets' data from Twitter](https://twitter.com/gro_tsen/status/1628773723175112704)
+
 
 ## Epidemiology and/or covid ##
 

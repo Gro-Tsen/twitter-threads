@@ -503,6 +503,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-10-16: [multiply infected having worse outcomes doesn't mean multiple infections tend to be worse](https://twitter.com/gro_tsen/status/1581724609648668677)
 
+* 2023-02-26: [thought on the Cochrane mask review and how we form beliefs](https://twitter.com/gro_tsen/status/1629816123376955397)
+
 
 ## Balades autour de Paris {en français} ##
 

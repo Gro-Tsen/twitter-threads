@@ -303,6 +303,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-02: [first-order Langevin diffusion](https://twitter.com/gro_tsen/status/1621114283131297794)
 
+* 2023-02-27: [plots of q-binomial coefficients](https://twitter.com/gro_tsen/status/1630185060132429827)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

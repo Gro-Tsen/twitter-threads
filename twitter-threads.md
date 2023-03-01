@@ -495,6 +495,8 @@ will try to make it easy to get the link to any version.)
 
 * 2021-12-13: [is it worse when a pathogen is more lethal or more transmissible? it depends on many things!](https://twitter.com/gro_tsen/status/1470443809662283788)
 
+* 2023-12-23: [why ER room visits are the best covid indicator {in French}](https://twitter.com/gro_tsen/status/1474087041315094530)
+
 * 2021-12-27: [on the silliness of outdoors mask mandates {in French}](https://twitter.com/gro_tsen/status/1475469192065425409)
 
 * 2021-12-29: [on the steady state of the SIR model](https://twitter.com/gro_tsen/status/1476338716797026309)

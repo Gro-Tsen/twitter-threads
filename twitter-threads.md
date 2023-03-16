@@ -733,6 +733,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-07: [on the fear and fascination of liminal spaces](https://twitter.com/gro_tsen/status/1622907259192762368)
 
+* 2023-03-16: [on ‘r’ vocalization in English vs German](https://twitter.com/gro_tsen/status/1636292652537659393)
+
 
 ## Collections of tweets not by me ##
 

@@ -735,6 +735,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-03-16: [on ‘r’ vocalization in English vs German](https://twitter.com/gro_tsen/status/1636292652537659393)
 
+* 2023-03-19: [on the legality of “kettling” under European and French law {in French}](https://twitter.com/gro_tsen/status/1637558552825872385)
+
 
 ## Collections of tweets not by me ##
 

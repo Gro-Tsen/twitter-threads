@@ -410,6 +410,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-23: [on the process I use to scrape my own tweets' data from Twitter](https://twitter.com/gro_tsen/status/1628773723175112704)
 
+* 2023-03-23: [graphs of cumulative precipitations in France {in French}](https://twitter.com/gro_tsen/status/1638892760018087936)
+
 
 ## Epidemiology and/or covid ##
 

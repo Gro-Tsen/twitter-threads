@@ -412,6 +412,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-03-23: [graphs of cumulative precipitations in France {in French}](https://twitter.com/gro_tsen/status/1638896244922675203)
 
+* 2023-03-24: [a curious discrepancy between sources on meteorological data {in French}](https://twitter.com/gro_tsen/status/1639251353909309440)
+
 
 ## Epidemiology and/or covid ##
 

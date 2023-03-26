@@ -741,6 +741,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-03-19: [on the legality of “kettling” under European and French law {in French}](https://twitter.com/gro_tsen/status/1637558552825872385)
 
+* 2023-03-26: [answering the “one more lane will fix traffic” strawman](https://twitter.com/gro_tsen/status/1639922761471606786)
+
 
 ## Collections of tweets not by me ##
 

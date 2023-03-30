@@ -414,6 +414,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-03-24: [a curious discrepancy between sources on meteorological data {in French}](https://twitter.com/gro_tsen/status/1639251353909309440)
 
+* 2023-03-30: [using `yt-dlp` to download videos from Arte's web site: the case of multiple subtitles {in French}](https://twitter.com/gro_tsen/status/1641395646312726530)
+
 
 ## Epidemiology and/or covid ##
 

@@ -305,6 +305,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-02-27: [plots of q-binomial coefficients](https://twitter.com/gro_tsen/status/1630185060132429827)
 
+* 2023-03-31: [on the unique f:ℕ→ℕ increasing such that f(f(n))=3n for all n, and generalizations](https://twitter.com/gro_tsen/status/1641364005590646788)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

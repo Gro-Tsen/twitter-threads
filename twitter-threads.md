@@ -747,6 +747,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-03-26: [answering the “one more lane will fix traffic” strawman](https://twitter.com/gro_tsen/status/1639922761471606786)
 
+* 2023-04-07: [are we willing to defend the freedoms of our enemies? {in French}](https://twitter.com/gro_tsen/status/1644446673563795457)
+
 
 ## Collections of tweets not by me ##
 

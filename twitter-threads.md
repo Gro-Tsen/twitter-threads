@@ -749,6 +749,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-04-07: [are we willing to defend the freedoms of our enemies? {in French}](https://twitter.com/gro_tsen/status/1644446673563795457)
 
+* 2023-04-08: [why people change their minds about politicians {in French}](https://twitter.com/gro_tsen/status/1644641629830094849)
+
 
 ## Collections of tweets not by me ##
 

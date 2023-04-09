@@ -751,6 +751,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-04-08: [why people change their minds about politicians {in French}](https://twitter.com/gro_tsen/status/1644641629830094849)
 
+* 2023-04-09: [Victor Hugo on Joseph Fourier versus Charles Fourier {in French}](https://twitter.com/gro_tsen/status/1644985375339827200)
+
 
 ## Collections of tweets not by me ##
 

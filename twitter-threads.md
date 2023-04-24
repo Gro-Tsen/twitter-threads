@@ -420,6 +420,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-03-30: [using `yt-dlp` to download videos from Arte's web site: the case of multiple subtitles {in French}](https://twitter.com/gro_tsen/status/1641395646312726530)
 
+* 2023-04-24: [complaining that Android can't do backups](https://twitter.com/gro_tsen/status/1650579347420373016)
+
 
 ## Epidemiology and/or covid ##
 

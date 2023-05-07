@@ -309,6 +309,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-04-18: [on the notion of “nucleus”](https://twitter.com/gro_tsen/status/1648351741497286658)
 
+* 2023-05-07: [why one should use Shannon entropy to measure complexity of classifications](https://twitter.com/gro_tsen/status/1655258656621854720)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

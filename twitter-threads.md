@@ -596,6 +596,8 @@ will try to make it easy to get the link to any version.)
 
 * 2022-11-13: [le Plessis-Robinson](https://twitter.com/gro_tsen/status/1591847260828188677)
 
+* 2023-05-14: [la boucle de Moisson](https://twitter.com/gro_tsen/status/1657507713755017216)
+
 
 ## Various other topics ##
 

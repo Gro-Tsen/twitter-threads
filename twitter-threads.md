@@ -313,6 +313,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-06-01: [on the Kreisel-Lacombe-Shoenfield theorem](https://twitter.com/gro_tsen/status/1664342835384971264)
 
+* 2023-06-25: [different kinds of (physically) measurable quantities {in French}](https://twitter.com/gro_tsen/status/1673060895885348866)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

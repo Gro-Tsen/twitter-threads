@@ -99,6 +99,8 @@ will try to make it easy to get the link to any version.)
 
 * 2020-01-14: [there is a polytope in ℝ⁴ which is not combinatorially equivalent to one with rational vertex coordinates](https://twitter.com/gro_tsen/status/1217109101806747649)
 
+* 2020-01-27: [conformal mapping of the outside of the Mandelbrot set (Fourier coefficients of its boundary)](https://twitter.com/gro_tsen/status/1221794919376924675)
+
 * 2020-01-29: [images of the Mandelbrot set by iteration](https://twitter.com/gro_tsen/status/1222480376590934016)
 
 * 2020-01-29: [computing external arguments for the Mandelbrot set](https://twitter.com/gro_tsen/status/1222531157834829829)

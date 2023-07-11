@@ -777,4 +777,6 @@ will try to make it easy to get the link to any version.)
 
 * 2020-06-17: [pinned self-description thread as of 2020-06-17](https://twitter.com/gro_tsen/status/1273255569680465920)
 
-* 2023-01-19: [pinned self-description thread as of 2023-01-19](https://twitter.com/gro_tsen/status/1616038783731785728)
+* 2023-01-19: [pinned self-description thread as of 2023-01-19 (and again on 2023-07-11)](https://twitter.com/gro_tsen/status/1616038783731785728)
+
+* 2023-07-01: [temporarily pinned thread on 2023-07-01](https://twitter.com/gro_tsen/status/1675252677540827136)

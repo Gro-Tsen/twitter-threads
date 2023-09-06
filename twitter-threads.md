@@ -767,6 +767,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-04-09: [Victor Hugo on Joseph Fourier versus Charles Fourier {in French}](https://twitter.com/gro_tsen/status/1644985375339827200)
 
+* 2023-09-06: [on the origin and citogenesis of a map claiming to show “androgenic hair” across the world](https://twitter.com/gro_tsen/status/1699342193343734007)
+
 
 ## Collections of tweets not by me ##
 

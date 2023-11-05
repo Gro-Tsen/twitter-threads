@@ -771,7 +771,7 @@ will try to make it easy to get the link to any version.)
 
 * 2023-09-06: [on the origin and citogenesis of a map claiming to show “androgenic hair” across the world](https://twitter.com/gro_tsen/status/1699342193343734007)
 
-* 2023-11-05: [on the barycenters of French regions computed with PostGIS {in French}](https://twitter.com/gro_tsen/status/1721160425998295301)
+* 2023-11-05: [on the barycenters of French regions computed with PostGIS {in French}](https://twitter.com/gro_tsen/status/1721185640627253674)
 
 
 ## Collections of tweets not by me ##

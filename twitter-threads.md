@@ -317,6 +317,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-06-25: [different kinds of (physically) measurable quantities {in French}](https://twitter.com/gro_tsen/status/1673060895885348866)
 
+* 2023-11-03: [on constructivism and the axion of Choice {pointing to end of thread}](https://twitter.com/gro_tsen/status/1720537295999078848)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -768,6 +770,8 @@ will try to make it easy to get the link to any version.)
 * 2023-04-09: [Victor Hugo on Joseph Fourier versus Charles Fourier {in French}](https://twitter.com/gro_tsen/status/1644985375339827200)
 
 * 2023-09-06: [on the origin and citogenesis of a map claiming to show “androgenic hair” across the world](https://twitter.com/gro_tsen/status/1699342193343734007)
+
+* 2023-11-05: [on the barycenters of French regions computed with PostGIS {in French}](https://twitter.com/gro_tsen/status/1721160425998295301)
 
 
 ## Collections of tweets not by me ##

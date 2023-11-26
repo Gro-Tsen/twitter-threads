@@ -319,6 +319,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-11-03: [on constructivism and the axion of Choice {pointing to end of thread}](https://twitter.com/gro_tsen/status/1720537295999078848)
 
+* 2023-11-26: [on random versus generic sequences](https://twitter.com/gro_tsen/status/1728866568137060800)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

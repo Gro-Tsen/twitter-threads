@@ -321,6 +321,12 @@ will try to make it easy to get the link to any version.)
 
 * 2023-11-26: [on random versus generic sequences](https://twitter.com/gro_tsen/status/1728866568137060800)
 
+* 2023-12-21: [a riddle about dragons and computability](https://twitter.com/gro_tsen/status/1737895690984968465)
+
+* 2023-12-22: [terms in system F which cannot be typed in the simply typed λ-calculus](https://twitter.com/gro_tsen/status/1738263349937234290)
+
+* 2023-12-23: [pictures of the dyadic and Stern-Brocot trees](https://twitter.com/gro_tsen/status/1738526870398742949)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

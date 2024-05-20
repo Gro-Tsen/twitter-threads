@@ -614,6 +614,8 @@ will try to make it easy to get the link to any version.)
 
 * 2023-05-14: [la boucle de Moisson](https://twitter.com/gro_tsen/status/1657507713755017216)
 
+* 2024-05-20: [arboretum des Grandes Bruyères](https://twitter.com/gro_tsen/status/1792630393297944950)
+
 
 ## Various other topics ##
 

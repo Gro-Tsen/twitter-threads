@@ -327,6 +327,12 @@ will try to make it easy to get the link to any version.)
 
 * 2023-12-23: [pictures of the dyadic and Stern-Brocot trees](https://twitter.com/gro_tsen/status/1738526870398742949)
 
+### 2023 ###
+
+* 2024-02-14: [on propositional realizability {in French}](https://twitter.com/gro_tsen/status/1757844356877242509)
+
+* 2024-08-19: [an example topological space: the pointed rational extension of ℝ](https://twitter.com/gro_tsen/status/1825658897081749625)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -439,6 +445,8 @@ will try to make it easy to get the link to any version.)
 * 2023-03-30: [using `yt-dlp` to download videos from Arte's web site: the case of multiple subtitles {in French}](https://twitter.com/gro_tsen/status/1641395646312726530)
 
 * 2023-04-24: [complaining that Android can't do backups](https://twitter.com/gro_tsen/status/1650579347420373016)
+
+* 2024-07-24: [a typology of superintelligent AIs](https://twitter.com/gro_tsen/status/1816180583145566344)
 
 
 ## Epidemiology and/or covid ##
@@ -614,6 +622,10 @@ will try to make it easy to get the link to any version.)
 
 * 2023-05-14: [la boucle de Moisson](https://twitter.com/gro_tsen/status/1657507713755017216)
 
+* 2024-03-23: [cerisiers en fleur à Versailles-Chèvreloup](https://twitter.com/gro_tsen/status/1771632014145302876)
+
+* 2024-04-11: [souvenirs de l'éclipse solaire du 1999-08-11](https://twitter.com/gro_tsen/status/1778354175606231048)
+
 * 2024-05-20: [arboretum des Grandes Bruyères](https://twitter.com/gro_tsen/status/1792630393297944950)
 
 
@@ -782,6 +794,28 @@ will try to make it easy to get the link to any version.)
 * 2023-09-06: [on the origin and citogenesis of a map claiming to show “androgenic hair” across the world](https://twitter.com/gro_tsen/status/1699342193343734007)
 
 * 2023-11-05: [on the barycenters of French regions computed with PostGIS {in French}](https://twitter.com/gro_tsen/status/1721185640627253674)
+
+* 2024-05-20: [various reasons motorcycles are dangerous](https://twitter.com/gro_tsen/status/1792506200728174968)
+
+* 2024-05-28: [gender categories in sports](https://twitter.com/gro_tsen/status/1795511208205857015)
+
+* 2024-05-29: [gender categories in sports: followup points](https://twitter.com/gro_tsen/status/1795754979539796203)
+
+* 2024-06-11: [correlations between results of differnt lists in the Europarl 2024 election in France {in French}](https://twitter.com/gro_tsen/status/1800656003983122776)
+
+* 2024-06-13: [a retrospective look at the French left {in French}](https://twitter.com/gro_tsen/status/1801272021365461351)
+
+* 2024-06-21: [on the name of the “Île-de-France” region {in French}](https://twitter.com/gro_tsen/status/1804280288283103595)
+
+* 2024-06-24: [defending my French and Canadian citizenship {in French}](https://twitter.com/gro_tsen/status/1805324176841900222)
+
+* 2024-06-26: [nationality is a matter of internal law {in French}](https://twitter.com/gro_tsen/status/1805990544511762923)
+
+* 2024-07-18: [on the current affairs government {in French}](https://twitter.com/gro_tsen/status/1813896166205231615)
+
+* 2024-07-19: [Paris during the olympics](https://twitter.com/gro_tsen/status/1814386322657947726)
+
+* 2024-07-20: [Paris during the olympics: a few followup points](https://twitter.com/gro_tsen/status/1814608457074434419)
 
 
 ## Collections of tweets not by me ##

@@ -333,6 +333,8 @@ will try to make it easy to get the link to any version.)
 
 * 2024-08-19: [an example topological space: the pointed rational extension of ℝ](https://twitter.com/gro_tsen/status/1825658897081749625)
 
+* 2024-08-20: [links on the history of the notion of compactness](https://twitter.com/gro_tsen/status/1825888399749738576)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

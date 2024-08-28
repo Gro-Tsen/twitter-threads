@@ -327,7 +327,7 @@ will try to make it easy to get the link to any version.)
 
 * 2023-12-23: [pictures of the dyadic and Stern-Brocot trees](https://twitter.com/gro_tsen/status/1738526870398742949)
 
-### 2023 ###
+### 2024 ###
 
 * 2024-02-14: [on propositional realizability {in French}](https://twitter.com/gro_tsen/status/1757844356877242509)
 

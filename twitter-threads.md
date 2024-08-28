@@ -1,8 +1,8 @@
 **Note:** To read these threads without a Twitter account, if the
 direct link does not link (e.g., if you get an obnoxious popup
 blocking the view and asking you to log in, try replacing
-`twitter.com` by `nitter.it` in the URL, e.g.,
-[`https://nitter.it/gro_tsen/status/1586032269877444608`](https://nitter.it/gro_tsen/status/1586032269877444608)
+`twitter.com` by `nitter.poast.org` in the URL, e.g.,
+[`https://nitter.poast.org/gro_tsen/status/1586032269877444608`](https://nitter.poast.org/gro_tsen/status/1586032269877444608)
 instead of
 [`https://twitter.com/gro_tsen/status/1586032269877444608`](https://twitter.com/gro_tsen/status/1586032269877444608)).
 Some of these links (but not all) can also be accessed via

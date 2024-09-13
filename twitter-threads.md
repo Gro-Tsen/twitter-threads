@@ -335,6 +335,8 @@ will try to make it easy to get the link to any version.)
 
 * 2024-08-20: [links on the history of the notion of compactness](https://twitter.com/gro_tsen/status/1825888399749738576)
 
+* 2024-09-13: [a riddle reconstructing a finite set S⊆X from a subset S′⊆S](https://twitter.com/gro_tsen/status/1834509589712085136)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 

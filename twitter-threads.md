@@ -337,6 +337,10 @@ will try to make it easy to get the link to any version.)
 
 * 2024-09-13: [a riddle reconstructing a finite set S⊆X from a subset S′⊆S](https://twitter.com/gro_tsen/status/1834509589712085136)
 
+### 2025 ###
+
+* 2025-01-12: [on the use of “trivial” and “obvious” in mathematical proofs](https://twitter.com/gro_tsen/status/1878377663766708723)
+
 
 ## Science, computers, technology, Unicode, etc. (inc. Twitter itself) ##
 
@@ -451,6 +455,10 @@ will try to make it easy to get the link to any version.)
 * 2023-04-24: [complaining that Android can't do backups](https://twitter.com/gro_tsen/status/1650579347420373016)
 
 * 2024-07-24: [a typology of superintelligent AIs](https://twitter.com/gro_tsen/status/1816180583145566344)
+
+* 2024-12-23: [on a bug in C compilers regarding pointers](https://twitter.com/gro_tsen/status/1871296907882250645)
+
+* 2025-01-10: [Mastodon versus Bluesky (versus Twitter)](https://twitter.com/gro_tsen/status/1877732625210565014)
 
 
 ## Epidemiology and/or covid ##
@@ -820,6 +828,8 @@ will try to make it easy to get the link to any version.)
 * 2024-07-19: [Paris during the olympics](https://twitter.com/gro_tsen/status/1814386322657947726)
 
 * 2024-07-20: [Paris during the olympics: a few followup points](https://twitter.com/gro_tsen/status/1814608457074434419)
+
+* 2024-12-11: [an alternate ending to the movie *Conclave*](https://twitter.com/gro_tsen/status/1866773804216963449)
 
 
 ## Collections of tweets not by me ##

@@ -460,6 +460,8 @@ will try to make it easy to get the link to any version.)
 
 * 2025-01-10: [Mastodon versus Bluesky (versus Twitter)](https://twitter.com/gro_tsen/status/1877732625210565014)
 
+* 2025-02-17: [Unix Locales make no sense](https://twitter.com/gro_tsen/status/1891605127259177039)
+
 
 ## Epidemiology and/or covid ##
 
